@@ -4,7 +4,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/eccv_recon.jp2" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/eccv.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ECCV</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -20,6 +20,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <!-- <img src="assets/img/eccv_recon.jp2" class="teaser img-fluid z-depth-1"> -->
     <abbr class="badge">IFAC-PapersOnLine</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -44,6 +45,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/semi.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Biosystems Engineering</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -56,6 +58,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/towards.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Pest Management Science</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -80,6 +83,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/edge.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Computers and Electronics in Agriculture</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
