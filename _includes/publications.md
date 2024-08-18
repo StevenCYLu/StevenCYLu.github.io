@@ -17,19 +17,6 @@
   </div>
 </div>
 </li>
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <!-- <img src="assets/img/eccv_recon.jp2" class="teaser img-fluid z-depth-1"> -->
-    <abbr class="badge">IFAC-PapersOnLine</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Generative adversarial network based image augmentation for insect pest classification enhancement</div>
-    <div class="author"><strong>CY Lu</strong>, DJA Rustia, TT Lin</div>
-    <div class="periodical"><em>IFAC-PapersOnLine, 2019, 52 (30), 1-5</em></div>
-  </div>
-</div>
-</li>
 <!-- <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -90,6 +77,19 @@
     <div class="title">Edge-based wireless imaging system for continuous monitoring of insect pests in a remote outdoor mango orchard</div>
     <div class="author">DJA Rustia, WC Lee, <strong>CY Lu</strong>, YF Wu, PY Shih, SK Chen, JY Chung, TT Lin</div>
     <div class="periodical"><em>Computers and Electronics in Agriculture, 2023, 211, 108019</em></div>
+  </div>
+</div>
+</li>
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <!-- <img src="assets/img/eccv_recon.jp2" class="teaser img-fluid z-depth-1"> -->
+    <abbr class="badge">IFAC-PapersOnLine</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Generative adversarial network based image augmentation for insect pest classification enhancement</div>
+    <div class="author"><strong>CY Lu</strong>, DJA Rustia, TT Lin</div>
+    <div class="periodical"><em>IFAC-PapersOnLine, 2019, 52 (30), 1-5</em></div>
   </div>
 </div>
 </li>
