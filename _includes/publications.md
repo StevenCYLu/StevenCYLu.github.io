@@ -45,7 +45,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/towards.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/towards.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Pest Management Science</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -71,7 +71,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/edge.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Computers and Electronics in Agriculture</abbr>
+    <abbr class="badge">Computers & Electronics in Ag.</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Edge-based wireless imaging system for continuous monitoring of insect pests in a remote outdoor mango orchard</div>
