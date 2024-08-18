@@ -29,7 +29,7 @@
   </div>
 </div>
 </li>
-<li>
+<!-- <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <abbr class="badge">IFAC-PapersOnLine</abbr>
@@ -40,7 +40,7 @@
     <div class="periodical"><em>IFAC-PapersOnLine, 2019, 52 (30), 196-201</em></div>
   </div>
 </div>
-</li>
+</li> -->
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -65,7 +65,7 @@
   </div>
 </div>
 </li>
-<li>
+<!-- <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <abbr class="badge">Poultry Science</abbr>
@@ -76,7 +76,7 @@
     <div class="periodical"><em>Poultry Science, 2023, 102 (12), 103040</em></div>
   </div>
 </div>
-</li>
+</li> -->
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
