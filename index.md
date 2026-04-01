@@ -1,5 +1,6 @@
 ---
 layout: homepage
+nav: home
 ---
 
 ## About Me
@@ -13,6 +14,8 @@ In the summers of **2023 and 2024**, I interned at [Adobe Research](https://rese
 Before joining Purdue, I was a **Research Assistant at National Taiwan University (NTU)** with [Prof. Ta-Te Lin](http://ttlin.bime.ntu.edu.tw/ttlin). My work focused on **precision agriculture**, where I built embedded systems and ML algorithms for interpretable decision support, robust edge deployment, and real-world agricultural monitoring.
 
 
+
+{% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
 
