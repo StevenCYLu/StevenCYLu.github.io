@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150" width="200" height="150" role="img" aria-label="Teaser coming soon">
+  <rect width="200" height="150" fill="#e9ecef"/>
+  <rect x="4" y="4" width="192" height="142" fill="none" stroke="#adb5bd" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="100" y="78" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#868e96" text-anchor="middle">TBD</text>
+  <text x="100" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#868e96" text-anchor="middle">teaser coming soon</text>
+</svg>
