@@ -10,7 +10,7 @@ nav: home
 
 ## About Me
 
-I am a **3rd-year Ph.D. student at Purdue University**, advised by [Prof. Somali Chaterji](https://schaterji.io/).
+I am a **4th-year Ph.D. student at Purdue University**, advised by [Prof. Somali Chaterji](https://schaterji.io/).
 
 My research focuses on **adversarially robust and data-efficient learning algorithms** for computer vision and multimodal tasks. I have worked on problems spanning **image semantic segmentation, video understanding, text-to-image diffusion models, and video coherence metrics**, with broader interests in **generative modeling** and **robust multimodal learning**.
 
