@@ -5,7 +5,7 @@ nav: home
 
 <div class="job-banner" markdown="0">
   <span class="job-banner-icon">📢</span>
-  <span><strong>I am on the job market!</strong> I am looking for a full-time position in industry as a <strong>Research Scientist/Engineer</strong>, or in academia as <strong>faculty</strong>. Feel free to <a href="mailto:{{ site.email }}">reach out</a>.</span>
+  <span><strong>I am on the job market!</strong> I am looking for a full-time position in industry as a <strong>Research Scientist/Engineer</strong>. Feel free to <a href="mailto:{{ site.email }}">reach out</a>.</span>
 </div>
 
 ## About Me
